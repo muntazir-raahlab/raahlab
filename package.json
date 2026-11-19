@@ -1,0 +1,11 @@
+{
+  "name": "raahlab-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html thank-you.html robots.txt sitemap.xml _redirects raahlab-mark.svg raahlab-logo.svg dist/"
+  },
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}

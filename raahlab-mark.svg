@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="RaahLab blue R road symbol">
+<rect x="4" y="4" width="120" height="120" rx="27" fill="#071426"/>
+<!-- blue graduation cap -->
+<path d="M31 22 63 10 97 22 63 34Z" fill="#1677FF"/>
+<path d="M43 27v10c11 8 29 8 40 0V27L63 34Z" fill="#1677FF"/>
+<path d="M96 22v17" stroke="#1677FF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="96" cy="41" r="3.5" fill="#1677FF"/>
+<!-- R bowl and stem -->
+<path d="M25 46h42c19 0 29 9 29 25 0 12-7 20-19 23l25 23H76L53 94H43v23H25V46Zm18 16v16h22c8 0 12-3 12-8s-4-8-12-8H43Z" fill="#FFFFFF"/>
+<!-- road-shaped blue leg, deliberately integrated into R -->
+<path d="M44 94h13c-1 8-5 16-12 23H26c8-7 14-15 18-23Z" fill="#1677FF"/>
+<path d="M57 94c7-17 20-29 42-37-12 12-19 23-22 37l24 23H77L57 94Z" fill="#1677FF"/>
+<path d="M67 89c8-12 18-20 31-26" fill="none" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="5 7"/>
+</svg>

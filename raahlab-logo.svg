@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 132" role="img" aria-label="RAAHLAB — Your Path. Your Future.">
+<g transform="translate(4 3) scale(.98)">
+<rect x="2" y="2" width="118" height="118" rx="27" fill="#071426"/>
+<path d="M29 44h41c18 0 28 9 28 24 0 11-7 19-18 22l24 25H78L55 92H46v23H29V44Zm17 16v16h23c8 0 12-3 12-8s-4-8-12-8H46Z" fill="#FFFFFF"/>
+<path d="M47 92h13c-1 8-5 16-12 23H30c8-7 13-15 17-23Z" fill="#1677FF"/>
+<path d="M60 92c7-17 20-29 42-37-12 12-19 23-22 37l24 23H80L60 92Z" fill="#1677FF"/>
+<path d="M34 20 61 10 91 20 61 31Z" fill="#1677FF"/>
+<path d="M45 25v9c10 7 24 7 34 0v-9L61 31Z" fill="#1677FF"/>
+<path d="M90 20v16" stroke="#1677FF" stroke-width="3" stroke-linecap="round"/>
+<circle cx="90" cy="38" r="3" fill="#1677FF"/>
+</g>
+<text x="145" y="66" font-family="Inter,Arial,sans-serif" font-size="49" font-weight="800" letter-spacing="-1.8" fill="#071426">RAAH</text>
+<text x="278" y="66" font-family="Inter,Arial,sans-serif" font-size="49" font-weight="800" letter-spacing="-1.8" fill="#1677FF">LAB</text>
+<text x="148" y="96" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3.0" fill="#52627A">YOUR PATH. YOUR FUTURE.</text>
+</svg>
